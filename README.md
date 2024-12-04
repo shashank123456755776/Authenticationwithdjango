@@ -1,4 +1,4 @@
-Full Authentication Tutorial (Login, Register, Logout & Reset Password)
+Full Authentication with django (Login, Register, Logout & Reset Password)
 
 Getting Started
 1. Setting up a Django Project
